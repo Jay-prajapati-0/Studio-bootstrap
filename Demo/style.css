@@ -1,0 +1,58 @@
+.text-center {
+    color:#25bad0;
+}
+
+.col-md-3 {
+    color:#25bad0;
+}
+
+.bg-1 {
+    background-color: #053740;
+}
+
+.bg-2 {
+    color: #3f9eb0;
+}
+
+.bg-3 {
+    background-color: #25bad0;
+}
+
+.bg-4 {
+    background-color: #053740;
+}
+
+.textbox {
+    margin: auto;
+    width: 80%;
+}
+
+.sm {
+    padding-top: 50px;
+    color: #daedf0;
+    padding-left: 20px;
+    margin: 20px;
+    border-spacing: 200px;
+}
+
+.fa {
+    padding: 20px;
+}
+
+.Copy {
+    text-align: center;
+}
+
+textarea#TextArea1 {
+    padding: 25px 10px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #fff;
+    background-color: rgba(255,255,255,0.2);
+    border: 0;
+    border-radius: 2px;
+    outline: none;
+    display: block;
+    width: 73%;
+    margin: 0px 0 0 14%;
+}
